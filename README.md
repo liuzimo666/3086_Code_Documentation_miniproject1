@@ -1,7 +1,5 @@
 # 3086_Code_Documentation_miniproject1
 
-# CMML Mini-project 1
-
 This repository contains the code and documentation for my CMML mini-project 1.
 
 ## Contents
